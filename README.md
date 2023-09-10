@@ -1,1 +1,0 @@
-# projeto_animal_akinator
