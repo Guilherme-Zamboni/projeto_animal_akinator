@@ -1,0 +1,105 @@
+[
+    {
+        "name": "lion",
+        "type": "mammal",
+        "locomotion": "quadruped",
+        "habitat": "",
+        "food": "carnivore"
+    },
+    {
+        "name": "horse",
+        "type": "mammal",
+        "locomotion": "quadruped",
+        "habitat": "",
+        "food": "herbivore"
+    },
+    {
+        "name": "human",
+        "type": "mammal",
+        "locomotion": "biped",
+        "habitat": "",
+        "food": "omnivorous"
+    },
+
+    {
+        "name": "monkey",
+        "type": "mammal",
+        "locomotion": "biped",
+        "habitat": "",
+        "food": "fluitful"
+    },
+
+    {
+        "name": "bat",
+        "type": "mammal",
+        "locomotion": "flying",
+        "habitat": "",
+        "food": ""
+    },
+
+    {
+        "name": "whale",
+        "type": "mammal",
+        "locomotion": "aquatic",
+        "habitat": "",
+        "food": ""
+    },
+
+    {
+        "name": "ostrich",
+        "type": "bird",
+        "locomotion": "non_flying",
+        "habitat": "tropical",
+        "food": ""
+    },
+
+    {
+        "name": "peguim",
+        "type": "bird",
+        "locomotion": "non_flying",
+        "habitat": "polar",
+        "food": ""
+    },
+
+    {
+        "name": "duck",
+        "type": "bird",
+        "locomotion": "swimmer",
+        "habitat": "",
+        "food": ""
+    },
+
+    {
+        "name": "eagle",
+        "type": "bird",
+        "locomotion": "of_prey",
+        "habitat": "",
+        "food": ""
+    },
+
+    {
+        "name": "turtle",
+        "type": "reptile",
+        "locomotion": "with_hull",
+        "habitat": "",
+        "food": ""
+    },
+
+    {
+        "name": "crocodile",
+        "type": "reptile",
+        "locomotion": "",
+        "habitat": "",
+        "food": "carnivore"
+    },
+
+    {
+        "name": "snake",
+        "type": "reptile",
+        "locomotion": "without_paws",
+        "habitat": "",
+        "food": ""
+    }
+
+
+]
